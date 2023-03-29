@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am specialized in:
-C# (.NET), WPF, HTML, CSS, JavaScript, TypeScript, node js and SQL.
-
 Currently working on some personal projects and studying Information Systems Engineering :) 
+
+`C# (.NET)` `HTML` `CSS` `JavaScript` `TypeScript` `node js` `SQL`
 
 :blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
 :blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
