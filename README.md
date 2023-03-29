@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am specialized in the following frameworks/programming languages:
+I am specialized in:
 C# (.NET), WPF, HTML, CSS, JavaScript, TypeScript, node js and SQL.
 
 Currently working on some personal projects and studying Information Systems Engineering :) 
