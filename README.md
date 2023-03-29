@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some personal projects.
-- 🌱 Learning .NET 6, WPF and JavaScript.
-- ⚡ Fun fact: Almost all my repositories are private :)
+I am specialized in the following frameworks/programming languages:
+C# (.NET), WPF, HTML, CSS, JavaScript, TypeScript, nodejs and SQL.
+
+Currently working on some personal projects and studying Information Systems Engineering :) 
