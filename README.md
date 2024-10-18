@@ -25,14 +25,4 @@
 
 <img src="https://raw.githubusercontent.com/IgnacioVeiga/IgnacioVeiga/output/snake.svg" alt="Snake animation" />
 
-###
-
-:blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
-:blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
-:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: </br>
-:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::yellow_circle::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: </br>
-:white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square::white_large_square: </br>
-:blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
-:blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square::blue_square: </br>
-
 </div>
