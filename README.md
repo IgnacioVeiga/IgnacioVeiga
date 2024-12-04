@@ -1,7 +1,3 @@
-<h1 align="center">Welcome</h1>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
   <img width="15" />
@@ -16,10 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-
-###
-
-<h6 align="center">Currently working on some personal projects :)</h6>
 
 ###
 
