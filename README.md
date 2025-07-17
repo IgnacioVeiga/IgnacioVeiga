@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://ignacioveiga.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Badge" /></a>
-  <a href="https://www.linkedin.com/in/ignacioveiga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-veiga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
 </p>
 
 ---
