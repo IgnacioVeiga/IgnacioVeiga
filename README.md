@@ -1,8 +1,7 @@
 <h1 align="center">About Me</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Tech Enthusiast | Problem Solver</b><br>
-  <i>Building scalable solutions with clean code and creativity.</i>
+  <b>Full Stack Developer | Tech Enthusiast</b><br>
 </p>
 
 ---
