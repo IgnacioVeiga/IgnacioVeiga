@@ -1,22 +1,81 @@
 [
-    {
-      "appName": "Lorem ipsum",
-      "description": "Lorem ipsum",
-      "iconSource": "https://avatars.githubusercontent.com/u/42973262?v=4",
-      "imageSource": "https://avatars.githubusercontent.com/u/42973262?v=4",
-      "link": "https://github.com/IgnacioVeiga/IgnacioVeiga",
-      "year": 1998,
-      "technologies": ["Foo", "Bar"],
-      "notes": "Lorem ipsum"
-    },
-    {
-      "appName": "Lorem ipsum",
-      "description": "Lorem ipsum",
-      "iconSource": "",
-      "imageSource": "",
-      "link": "https://github.com/IgnacioVeiga/IgnacioVeiga",
-      "year": 2025,
-      "technologies": ["Foo", "Bar"],
-      "notes": "Lorem ipsum"
-    }
+  {
+    "appName": "RenameMusic",
+    "description": "Utility to rename music files based on tag patterns and presets, with batch support and dry-run mode.",
+    "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RenameMusic/refs/heads/master/RenameMusic/Assets/Icons/icon.ico",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/RenameMusic",
+    "year": 2022,
+    "technologies": [
+      "C#",
+      ".NET",
+      "WPF"
+    ],
+    "notes": "Works with ID3v1, ID3v2, Vorbis Comments, and FLAC tags."
+  },
+  {
+    "appName": "RandomGameLauncher",
+    "description": "Launcher that picks a random installed game and starts it with optional filters and categories.",
+    "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Icons/icon.ico",
+    "imageSource": "https://github.com/IgnacioVeiga/RandomGameLauncher/blob/master/RG39/Resources/Images/Screenshot.png",
+    "link": "https://github.com/IgnacioVeiga/RandomGameLauncher",
+    "year": 2021,
+    "technologies": [
+      "C#",
+      ".NET",
+      "WPF"
+    ],
+    "notes": "Small, focused Windows utility; handles Steam and Epic Games libraries."
+  },
+  {
+    "appName": "SITU-WebApp",
+    "description": "Small frontend web application.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/SITU-WebApp",
+    "year": 2024,
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "SCSS"
+    ],
+    "notes": "Angular 18, progressive enhancement and SSR-ready."
+  },
+  {
+    "appName": "SITU-Backend",
+    "description": "Backend API for SITU-WebApp with authentication, business rules, and persistence.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/SITU-Backend",
+    "year": 2024,
+    "technologies": [
+      "Java",
+      "Spring",
+      "Postgres"
+    ],
+    "notes": "Designed for scalability and clear API contracts."
+  },
+  {
+    "appName": "M-Player",
+    "description": "Electron music player built with React and Vite.",
+    "imageSource": "https://github.com/IgnacioVeiga/M-Player/blob/main/image.png",
+    "link": "https://github.com/IgnacioVeiga/M-Player",
+    "year": 2023,
+    "technologies": [
+      "Electron",
+      "React",
+      "Vite"
+    ],
+    "notes": "Cross-platform desktop player focused on performance."
+  },
+  {
+    "appName": "ArkaPong",
+    "description": "[PRE-ALPHA] Experimental Arkanoid+Pong hybrid written in C/C++ using SDL2.",
+    "imageSource": "https://private-user-images.githubusercontent.com/42973262/464462546-538974f9-4e3c-4382-9c7e-d15dc1607d17.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNTI4MzksIm5iZiI6MTc2MTA1MjUzOSwicGF0aCI6Ii80Mjk3MzI2Mi80NjQ0NjI1NDYtNTM4OTc0ZjktNGUzYy00MzgyLTljN2UtZDE1ZGMxNjA3ZDE3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDEzMTUzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNzBkMTg3MWZmMzE1OWE4MzljNzY0NDA4ZmZjZDFiNzQxZjE3ODI4YmY4ZDM3NmM2NmNjOTViMjM2ZDgzYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UIletxDdOu0JuS6bfwzcDEX8YR1WLaG5dhs1WmoyGws",
+    "link": "https://github.com/IgnacioVeiga/ArkaPong",
+    "year": 2020,
+    "technologies": [
+      "C++",
+      "SDL2"
+    ],
+    "notes": "Prototype level code with emphasis on game engine mechanics."
+  }
 ]
