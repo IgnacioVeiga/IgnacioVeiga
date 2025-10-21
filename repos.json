@@ -1,22 +1,22 @@
 [
     {
-      appName: 'Lorem ipsum',
-      description: 'Lorem ipsum',
-      iconSource: 'https://avatars.githubusercontent.com/u/42973262?v=4',
-      imageSource: 'https://avatars.githubusercontent.com/u/42973262?v=4',
-      link: 'https://github.com/IgnacioVeiga/IgnacioVeiga',
-      year: 1998,
-      technologies: ['Foo', 'Bar'],
-      notes: 'Lorem ipsum'
+      "appName": "Lorem ipsum",
+      "description": "Lorem ipsum",
+      "iconSource": "https://avatars.githubusercontent.com/u/42973262?v=4",
+      "imageSource": "https://avatars.githubusercontent.com/u/42973262?v=4",
+      "link": "https://github.com/IgnacioVeiga/IgnacioVeiga",
+      "year": 1998,
+      "technologies": ["Foo", "Bar"],
+      "notes": "Lorem ipsum"
     },
     {
-      appName: 'Lorem ipsum',
-      description: 'Lorem ipsum',
-      iconSource: '',
-      imageSource: '',
-      link: 'https://github.com/IgnacioVeiga/IgnacioVeiga',
-      year: 2025,
-      technologies: ['Foo', 'Bar'],
-      notes: 'Lorem ipsum'
+      "appName": "Lorem ipsum",
+      "description": "Lorem ipsum",
+      "iconSource": "",
+      "imageSource": "",
+      "link": "https://github.com/IgnacioVeiga/IgnacioVeiga",
+      "year": 2025,
+      "technologies": ["Foo", "Bar"],
+      "notes": "Lorem ipsum"
     }
-  ]
+]
