@@ -5,7 +5,7 @@
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RenameMusic/refs/heads/master/RenameMusic/Assets/Icons/icon.ico",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/RenameMusic",
-    "year": 2022,
+    "year": 2019,
     "technologies": [
       "C#",
       ".NET",
@@ -19,7 +19,7 @@
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Icons/icon.ico",
     "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Images/Screenshot.png",
     "link": "https://github.com/IgnacioVeiga/RandomGameLauncher",
-    "year": 2021,
+    "year": 2019,
     "technologies": [
       "C#",
       ".NET",
@@ -32,7 +32,7 @@
     "description": "Small frontend web application.",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/SITU-WebApp",
-    "year": 2024,
+    "year": 2019,
     "technologies": [
       "Angular",
       "TypeScript",
@@ -45,7 +45,7 @@
     "description": "Backend API for SITU-WebApp with authentication, business rules, and persistence.",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/SITU-Backend",
-    "year": 2024,
+    "year": 2023,
     "technologies": [
       "Java",
       "Spring",
@@ -58,7 +58,7 @@
     "description": "Electron music player built with React and Vite.",
     "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/M-Player/refs/heads/main/image.png",
     "link": "https://github.com/IgnacioVeiga/M-Player",
-    "year": 2023,
+    "year": 2024,
     "technologies": [
       "Electron",
       "React",
@@ -69,7 +69,7 @@
   {
     "appName": "ArkaPong",
     "description": "[PRE-ALPHA] Experimental Arkanoid+Pong hybrid written in C/C++ using SDL2.",
-    "imageSource": "https://private-user-images.githubusercontent.com/42973262/464462546-538974f9-4e3c-4382-9c7e-d15dc1607d17.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEwNTI4MzksIm5iZiI6MTc2MTA1MjUzOSwicGF0aCI6Ii80Mjk3MzI2Mi80NjQ0NjI1NDYtNTM4OTc0ZjktNGUzYy00MzgyLTljN2UtZDE1ZGMxNjA3ZDE3LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDIxVDEzMTUzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNzBkMTg3MWZmMzE1OWE4MzljNzY0NDA4ZmZjZDFiNzQxZjE3ODI4YmY4ZDM3NmM2NmNjOTViMjM2ZDgzYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UIletxDdOu0JuS6bfwzcDEX8YR1WLaG5dhs1WmoyGws",
+    "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/ArkaPong",
     "year": 2020,
     "technologies": [
@@ -77,5 +77,29 @@
       "SDL2"
     ],
     "notes": "Prototype level code with emphasis on game engine mechanics."
-  }
+  },
+  {
+    "appName": "NBot",
+    "description": "Telegram bot template server.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/NBot",
+    "year": 2024,
+    "technologies": [
+      "Java"
+    ],
+    "notes": ""
+  },
+  {
+    "appName": "ArkaPong",
+    "description": "Easily share links and images to Telegram using Telegram Desktop or Bot API.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/ArkaPong",
+    "year": 2024,
+    "technologies": [
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "notes": ""
+  },
 ]
