@@ -17,7 +17,7 @@
     "appName": "RandomGameLauncher",
     "description": "Launcher that picks a random installed game and starts it with optional filters and categories.",
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Icons/icon.ico",
-    "imageSource": "https://github.com/IgnacioVeiga/RandomGameLauncher/blob/master/RG39/Resources/Images/Screenshot.png",
+    "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Images/Screenshot.png",
     "link": "https://github.com/IgnacioVeiga/RandomGameLauncher",
     "year": 2021,
     "technologies": [
@@ -56,7 +56,7 @@
   {
     "appName": "M-Player",
     "description": "Electron music player built with React and Vite.",
-    "imageSource": "https://github.com/IgnacioVeiga/M-Player/blob/main/image.png",
+    "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/M-Player/refs/heads/main/image.png",
     "link": "https://github.com/IgnacioVeiga/M-Player",
     "year": 2023,
     "technologies": [
