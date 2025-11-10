@@ -1,5 +1,31 @@
 [
   {
+    "appName": "SITU-WebApp",
+    "description": "Small frontend web application.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/SITU-WebApp",
+    "year": 2019,
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "SCSS"
+    ],
+    "notes": "Angular 18, progressive enhancement and SSR-ready."
+  },
+  {
+    "appName": "SITU-Backend",
+    "description": "Backend API for SITU-WebApp with authentication, business rules, and persistence.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/SITU-Backend",
+    "year": 2023,
+    "technologies": [
+      "Java",
+      "Spring",
+      "Postgres"
+    ],
+    "notes": "Designed for scalability and clear API contracts."
+  },
+  {
     "appName": "RenameMusic",
     "description": "Utility to rename music files based on tag patterns and presets, with batch support and dry-run mode.",
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RenameMusic/refs/heads/master/RenameMusic/Assets/Icons/icon.ico",
@@ -28,32 +54,6 @@
     "notes": "Small, focused Windows utility; handles Steam and Epic Games libraries."
   },
   {
-    "appName": "SITU-WebApp",
-    "description": "Small frontend web application.",
-    "imageSource": "",
-    "link": "https://github.com/IgnacioVeiga/SITU-WebApp",
-    "year": 2019,
-    "technologies": [
-      "Angular",
-      "TypeScript",
-      "SCSS"
-    ],
-    "notes": "Angular 18, progressive enhancement and SSR-ready."
-  },
-  {
-    "appName": "SITU-Backend",
-    "description": "Backend API for SITU-WebApp with authentication, business rules, and persistence.",
-    "imageSource": "",
-    "link": "https://github.com/IgnacioVeiga/SITU-Backend",
-    "year": 2023,
-    "technologies": [
-      "Java",
-      "Spring",
-      "Postgres"
-    ],
-    "notes": "Designed for scalability and clear API contracts."
-  },
-  {
     "appName": "M-Player",
     "description": "Electron music player built with React and Vite.",
     "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/M-Player/refs/heads/main/image.png",
@@ -67,18 +67,6 @@
     "notes": "Cross-platform desktop player focused on performance."
   },
   {
-    "appName": "ArkaPong",
-    "description": "[PRE-ALPHA] Experimental Arkanoid+Pong hybrid written in C/C++ using SDL2.",
-    "imageSource": "",
-    "link": "https://github.com/IgnacioVeiga/ArkaPong",
-    "year": 2020,
-    "technologies": [
-      "C++",
-      "SDL2"
-    ],
-    "notes": "Prototype level code with emphasis on game engine mechanics."
-  },
-  {
     "appName": "NBot",
     "description": "Telegram bot template server.",
     "imageSource": "",
@@ -90,10 +78,10 @@
     "notes": ""
   },
   {
-    "appName": "ArkaPong",
+    "appName": "Telegram Share Extension",
     "description": "Easily share links and images to Telegram using Telegram Desktop or Bot API.",
     "imageSource": "",
-    "link": "https://github.com/IgnacioVeiga/ArkaPong",
+    "link": "https://github.com/IgnacioVeiga/telegram-share-extension",
     "year": 2024,
     "technologies": [
       "JavaScript",
@@ -101,5 +89,17 @@
       "CSS3"
     ],
     "notes": ""
+  },
+  {
+    "appName": "ArkaPong",
+    "description": "[PRE-ALPHA] Experimental Arkanoid+Pong hybrid written in C/C++ using SDL2.",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/ArkaPong",
+    "year": 2020,
+    "technologies": [
+      "C++",
+      "SDL2"
+    ],
+    "notes": "Prototype level code with emphasis on game engine mechanics."
   }
 ]
