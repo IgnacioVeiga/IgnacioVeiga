@@ -10,7 +10,7 @@
       "TypeScript",
       "SCSS"
     ],
-    "notes": "Angular 18, progressive enhancement and SSR-ready."
+    "notes": "Angular 18-20, progressive enhancement."
   },
   {
     "appName": "SITU-Backend",
@@ -64,7 +64,7 @@
       "React",
       "Vite"
     ],
-    "notes": "Cross-platform desktop player focused on performance."
+    "notes": "It's a demo cross-platform desktop player."
   },
   {
     "appName": "NBot",
