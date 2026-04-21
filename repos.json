@@ -2,8 +2,10 @@
   {
     "appName": "SITU-WebApp",
     "description": "Small frontend web application.",
+    "iconSource": "",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/SITU-WebApp",
+    "demoLink": "",
     "year": 2019,
     "technologies": [
       "Angular",
@@ -15,8 +17,10 @@
   {
     "appName": "SITU-Backend",
     "description": "Backend API for SITU-WebApp with authentication, business rules, and persistence.",
+    "iconSource": "",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/SITU-Backend",
+    "demoLink": "",
     "year": 2023,
     "technologies": [
       "Java",
@@ -31,6 +35,7 @@
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RenameMusic/refs/heads/master/RenameMusic/Assets/Icons/icon.ico",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/RenameMusic",
+    "demoLink": "",
     "year": 2019,
     "technologies": [
       "C#",
@@ -45,6 +50,7 @@
     "iconSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Icons/icon.ico",
     "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/RandomGameLauncher/refs/heads/master/RG39/Resources/Images/Screenshot.png",
     "link": "https://github.com/IgnacioVeiga/RandomGameLauncher",
+    "demoLink": "",
     "year": 2019,
     "technologies": [
       "C#",
@@ -56,8 +62,10 @@
   {
     "appName": "M-Player",
     "description": "Electron music player built with React and Vite.",
+    "iconSource": "",
     "imageSource": "https://raw.githubusercontent.com/IgnacioVeiga/M-Player/refs/heads/main/image.png",
     "link": "https://github.com/IgnacioVeiga/M-Player",
+    "demoLink": "",
     "year": 2024,
     "technologies": [
       "Electron",
@@ -69,8 +77,10 @@
   {
     "appName": "NBot",
     "description": "Telegram bot template server.",
+    "iconSource": "",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/NBot",
+    "demoLink": "",
     "year": 2024,
     "technologies": [
       "Java"
@@ -80,8 +90,10 @@
   {
     "appName": "Telegram Share Extension",
     "description": "Easily share links and images to Telegram using Telegram Desktop or Bot API.",
+    "iconSource": "",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/telegram-share-extension",
+    "demoLink": "",
     "year": 2024,
     "technologies": [
       "JavaScript",
@@ -93,13 +105,30 @@
   {
     "appName": "ArkaPong",
     "description": "[PRE-ALPHA] Experimental Arkanoid+Pong hybrid written in C/C++ using SDL2.",
+    "iconSource": "",
     "imageSource": "",
     "link": "https://github.com/IgnacioVeiga/ArkaPong",
+    "demoLink": "",
     "year": 2020,
     "technologies": [
       "C++",
       "SDL2"
     ],
     "notes": "Prototype level code with emphasis on game engine mechanics."
+  },
+  {
+    "appName": "Fixpoint",
+    "description": "Angular client for workshop operations.",
+    "iconSource": "",
+    "imageSource": "",
+    "link": "https://github.com/IgnacioVeiga/Fixpoint-Frontend",
+    "demoLink": "https://fixpointdemo.netlify.app/",
+    "year": 2026,
+    "technologies": [
+      "Angular",
+      "TypeScript",
+      "SCSS"
+    ],
+    "notes": "It supports real backend environments and a mock-only mode for demos."
   }
 ]
